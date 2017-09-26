@@ -14,7 +14,6 @@
   "enabledExtensions": [
         "conflictSearch",
         "streetView",
-        "layerSearch",
         "isochrone",
         "coordinates"
     ]
